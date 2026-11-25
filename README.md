@@ -3764,7 +3764,7 @@ Uji ping rapat ke Tokyo3-Core dari Lilith:
 <!-- ![Uji fungsi Tokyo3-Core](images/soal20-fungsi-tokyo3.png) -->
 
 
-
+.
 
 
 
